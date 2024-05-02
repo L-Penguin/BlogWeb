@@ -4,11 +4,11 @@
 
 # Site
 title: L_Penguin's BlogWeb
-subtitle: 'Enjoy!'
+subtitle: 让每天过的有意义！
 description: 'This is the web of L_Penguin for recording the knowledage'
 keywords: 'password@LQ7'
 author: L_Penguin
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: solitude
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
