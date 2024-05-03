@@ -1,10 +1,11 @@
 ---
-title: JavaScript 相关
-tags: JS
-categories: Python
-desc: '1er1rqfsag'
+title: JavaScript 了解
+tags: JavaScript
+categories: Frontend
 cover: ../assets/JavaScript.png
+date: 2023-12-18 00:00:00
 ---
+
 # `JavaScript`相关
 
 整理`JS`相关的知识体系、问题、理解……
