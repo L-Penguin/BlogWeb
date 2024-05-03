@@ -114,9 +114,9 @@ hometop:
   # 左下跳转按钮
   # Banner lower left jump button
   group:
-    JS: /tags/JS/ || st-fire-fill || linear-gradient(to right,#f65,#ffbf37)
-    Python: /tags/Python/ || st-book-mark-fill || linear-gradient(to right,#358bff,#15c6ff)
-    C++: /tags/C++/ || st-star-smile-fill || linear-gradient(to right,#18e7ae,#1eebeb)
+    JS: /tags/JavaScript/ || st-fire-fill || linear-gradient(to right,#f65,#ffbf37)
+    TS: /tags/TypeScript/ || st-book-mark-fill || linear-gradient(to right,#358bff,#15c6ff)
+    # C++: /tags/C++/ || st-star-smile-fill || linear-gradient(to right,#18e7ae,#1eebeb)
 
   # 右侧置顶列表（在文章的front matter中添加“recommend: true”）
   # Right top list (add "recommend: true" in the front matter of the article)
